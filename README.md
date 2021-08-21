@@ -1,4 +1,4 @@
-### Olá, Sou Wendell Lima!
+### Olá, Sou Wendell Lima! Estudante de Sistemas de informação.
 
 <div>
   <a href="https://github.com/WendellLima">
